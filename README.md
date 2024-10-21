@@ -1,1 +1,1 @@
-# GUDP
+# Guaranteed UDP (GUDP)
